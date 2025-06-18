@@ -1,5 +1,5 @@
 # Ігноруємо папку з логами (Ignore the log folder)
-/Logs
+Logs/
 
 # Ігноруємо файл з ключами (Ignore the key file)
 API Keys.txt
