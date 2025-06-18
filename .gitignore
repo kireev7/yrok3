@@ -1,0 +1,9 @@
+# Ігноруємо папку з логами (Ignore the log folder)
+/Logs
+
+# Ігноруємо файл з ключами (Ignore the key file)
+API Keys.txt
+
+# Ігоруємо файл з дебагом (Ignore the debug file)
+Debug.hpp
+
